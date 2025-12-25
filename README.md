@@ -60,7 +60,7 @@ A modern, responsive portfolio website showcasing my skills in **software develo
 ## 📄 Resume
 
 <div align="center">
-  <a href="UMAIYAVAN_RESUME.pdf" download="UMAIYAVAN_RESUME">
+  <a href="UMAIYAVAN_ RESUME.pdf" download="UMAIYAVAN_RESUME">
     <img src="https://img.shields.io/badge/📄_Download_Resume-7C3AED?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume">
   </a>
 </div>
