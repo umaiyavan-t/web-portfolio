@@ -4,9 +4,25 @@
     {
       "src": "template/index.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "static/**",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "assests/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
+    },
+    {
+      "src": "/assests/(.*)",
+      "dest": "/assests/$1"
+    },
     {
       "src": "/(.*)",
       "dest": "/template/index.html"
