@@ -14,7 +14,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "UMAIYAVAN_ RESUME.pdf",
+      "src": "UMAIYAVAN_RESUME.pdf",
       "use": "@vercel/static"
     }
   ],
@@ -28,8 +28,8 @@
       "dest": "/assests/$1"
     },
     {
-      "src": "/UMAIYAVAN_ RESUME.pdf",
-      "dest": "/UMAIYAVAN_ RESUME.pdf"
+      "src": "/UMAIYAVAN_RESUME.pdf",
+      "dest": "/UMAIYAVAN_RESUME.pdf"
     },
     {
       "src": "/(.*)",
