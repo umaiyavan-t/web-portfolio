@@ -43,23 +43,23 @@ body {
 }
 
 .btn-primary {
-    background-color: #1e40af;
+    background-color: #7c3aed;
     color: white;
 }
 
 .btn-primary:hover {
-    background-color: #06b6d4;
+    background-color: #6d28d9;
     transform: translateY(-2px);
 }
 
 .btn-secondary {
     background-color: transparent;
-    color: #1e40af;
-    border: 2px solid #1e40af;
+    color: #7c3aed;
+    border: 2px solid #7c3aed;
 }
 
 .btn-secondary:hover {
-    background-color: #1e40af;
+    background-color: #7c3aed;
     color: white;
     transform: translateY(-2px);
 }
@@ -77,7 +77,7 @@ body {
     display: block;
     width: 60px;
     height: 3px;
-    background-color: #06b6d4;
+    background-color: #7c3aed;
     margin: 1rem auto 0;
     border-radius: 2px;
 }
@@ -109,7 +109,7 @@ body {
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #1e40af;
+    color: #7c3aed;
 }
 
 .nav-menu {
@@ -127,7 +127,7 @@ body {
 
 .nav-link:hover,
 .nav-link.active {
-    color: #06b6d4;
+    color: #7c3aed;
 }
 
 .hamburger {
@@ -139,7 +139,7 @@ body {
 .bar {
     width: 25px;
     height: 3px;
-    background-color: #1e40af;
+    background-color: #e5e7eb;
     margin: 3px 0;
     transition: 0.3s;
 }
@@ -170,7 +170,7 @@ body {
 }
 
 .highlight {
-    color: #06b6d4;
+    color: #10b981;
 }
 
 .hero-subtitle {
@@ -247,7 +247,7 @@ body {
 }
 
 .skill-category-title i {
-    color: #06b6d4;
+    color: #7c3aed;
 }
 
 .skill-tags {
@@ -275,27 +275,27 @@ body {
 
 /* Proficiency Levels */
 .skill-tag.beginner {
-    background-color: #64748b;
+    background-color: #6b7280;
     color: #ffffff;
-    border: 2px solid #64748b;
+    border: 2px solid #6b7280;
 }
 
 .skill-tag.intermediate {
-    background-color: #1e40af;
+    background-color: #7c3aed;
     color: #ffffff;
-    border: 2px solid #1e40af;
+    border: 2px solid #7c3aed;
 }
 
 .skill-tag.advanced {
-    background-color: #2563eb;
+    background-color: #10b981;
     color: #ffffff;
-    border: 2px solid #2563eb;
+    border: 2px solid #10b981;
 }
 
 .skill-tag.expert {
-    background-color: #ea580c;
+    background-color: #f59e0b;
     color: #ffffff;
-    border: 2px solid #ea580c;
+    border: 2px solid #f59e0b;
 }
 
 /* ===== PROJECTS SECTION ===== */
@@ -323,7 +323,7 @@ body {
 
 .project-image {
     height: 200px;
-    background-color: #1e40af;
+    background-color: #7c3aed;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -369,7 +369,7 @@ body {
 }
 
 .project-link {
-    color: #1e40af;
+    color: #7c3aed;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -379,7 +379,7 @@ body {
 }
 
 .project-link:hover {
-    color: #06b6d4;
+    color: #10b981;
 }
 
 /* ===== CONTACT SECTION ===== */
@@ -416,7 +416,7 @@ body {
 }
 
 .contact-item i {
-    color: #06b6d4;
+    color: #7c3aed;
     width: 20px;
 }
 
@@ -437,7 +437,7 @@ body {
     width: 50px;
     height: 50px;
     background-color: #374151;
-    color: #1e40af;
+    color: #7c3aed;
     text-decoration: none;
     border-radius: 50%;
     transition: all 0.3s ease;
@@ -445,7 +445,7 @@ body {
 }
 
 .social-link:hover {
-    background-color: #1e40af;
+    background-color: #7c3aed;
     color: white;
     transform: translateY(-3px);
 }
@@ -597,7 +597,7 @@ body {
 .btn:focus,
 .social-link:focus,
 .project-link:focus {
-    outline: 2px solid #1e40af;
+    outline: 2px solid #7c3aed;
     outline-offset: 2px;
 }
 
